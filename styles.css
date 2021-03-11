@@ -1,0 +1,44 @@
+fieldset {
+    width: 50%;
+}
+
+textarea {
+    width: 300px;
+}
+
+.container {
+    display: flex;
+}
+
+.background-button {
+    background-color: dodgerblue;
+    color: white;
+    border-color: dodgerblue;
+}
+
+.slider-container {
+    margin: 2rem;
+    width: 50%;
+}
+
+.slider {
+    margin: 1rem 0;
+}
+
+.red-slider-range {
+    height: 100%;
+    background-color: red;
+    width: 0%;
+}
+
+.green-slider-range {
+    height: 100%;
+    background-color: green;
+    width: 0%;
+}
+
+.blue-slider-range {
+    height: 100%;
+    background-color: blue;
+    width: 0%;
+}
